@@ -1,0 +1,54 @@
+body {
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.logo-container {
+    margin: 20px 0;
+}
+
+.logo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 10px 0;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.telegram-logo {
+    margin-left: auto;
+}
+
+.telegram-logo img {
+    width: 30px;
+    height: auto;
+}
+
+img {
+    width: 1080px;
+    height: 1080px;
+}
+
+.second-box {
+    margin-left: 20px; /* فاصله بین کادرها */
+}
+
+.third-box {
+    margin-left: 20px; /* فاصله بین کادرها */
+}
+
+.fourth-box {
+    margin-left: 20px; /* فاصله بین کادرها */
+}
